@@ -11,4 +11,4 @@ _The Impulse Response Functions are the most significant as the show the shock o
 
 This is the first econometrics project I've independently completed, as a way to learn R and further my knowledge of Time Series Modelling, so I am open to any and all feedback and further ideas!
 
-_The uploaded code will be adjusted soon with comments explaining the code and flow of work_
+*** The uploaded code will be adjusted soon with comments explaining the code and flow of work***

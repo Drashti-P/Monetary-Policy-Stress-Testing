@@ -1,7 +1,7 @@
 # Monetary-Policy-Stress-Testing
 Understanding the impact of endogenous economic variables on the Base Interest Rate
 
-Developed a VAR and SVAR model to obtain the Forecast Variance Decomposition and Impulse Response Function plots to understand how the U.K. Base Interest Rate reacts to GDP, Inflation, and UK-US exchange rate shocks.
+Developed a VAR and SVAR model to obtain the Forecast Variance Decomposition and Impulse Response Function plots to understand how the U.K. Base Interest Rate reacts to GDP, Inflation, and UK-US exchange rate shocks. The VAR and SVAR model uniquely allows us to model an economic chain of events to see which variable impacts the other.
 
 Data: Monthly data of Base Interest Rates, GDP Index Values, annual CPI rates, and UK-US exchange rates from the Bank of England and ONS, covering the period from 1997 to 2023.
 
